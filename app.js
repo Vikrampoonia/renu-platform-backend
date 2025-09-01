@@ -10,10 +10,9 @@ import { upload } from './middleware/upload.js';
 const app = express();
 
 
-const corsOptions = {
-  origin: 'https://renu-platform-frontend.vercel.app'
-};
-app.use(cors(corsOptions)); 
+app.use(cors({
+  origin: "*"
+}));
 app.use(express.json());
 
 
