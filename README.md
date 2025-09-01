@@ -2,7 +2,7 @@
 
 An Express.js and MySQL backend for the Renu Platform, designed to manage school data including image uploads.
 
-**Live URL:** [https://renu-platform-backend.vercel.app](https://renu-platform-backend-jday.vercel.app/)
+**Live URL:** [https://renu-platform-backend.vercel.app](https://renu-platform-backend.vercel.app/)
 
 ---
 
